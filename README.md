@@ -1,2 +1,2 @@
-# cpm-tool BR tool
+# cpm-tool
 
